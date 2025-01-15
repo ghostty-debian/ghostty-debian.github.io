@@ -1,0 +1,20 @@
+Package: ghostty
+Source: ghostty
+Maintainer: Dario Griffo <dariogriffo@gmail.com>
+Homepage: https://ghostty.org/
+Version: 1.0.1-1+trixie
+Architecture: amd64
+Depends: libadwaita-1-0, libc6, libfontconfig1, libfreetype6, libglib2.0-0, libgtk-4-1, libharfbuzz0b, libonig5, libx11-6
+Priority: optional
+Section: utils
+Filename: pool/main/g/ghostty/ghostty_1.0.1-1+trixie_amd64.deb
+Size: 16657660
+SHA256: f57a117fe80bb718ca06602594c50d2199d5f3a814aba98252930be5b5431a52
+SHA1: c2903d3f99477d97b918b7e336e4ed741315f3e1
+MD5sum: 8e34e2aac8240fb7da8a9b35dfbbbfe3
+Description: Fast, feature-rich, and cross-platform terminal emulator.
+ Ghostty is a terminal emulator that differentiates itself by being fast,
+ feature-rich, and native. While there are many excellent terminal emulators
+ available, they all force you to choose between speed, features, or native
+ UIs. Ghostty provides all three. This is an unofficial package.
+

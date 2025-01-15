@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: trixie
+Date: Wed, 15 Jan 2025 22:31:08 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for ghostty-debian
+MD5Sum:
+ a6f8a4b0df479c6560bca1c9a581fd17 916 main/binary-amd64/Packages
+ a4ea0099546a6c8da7b3b7c98494666d 591 main/binary-amd64/Packages.gz
+ 94b449d3b979b14b2508ddc511fa6946 83 main/binary-amd64/Release
+SHA1:
+ 04037b81d25c1d9cdc40d15af6ac3d5e0e39cceb 916 main/binary-amd64/Packages
+ c54857bd79b3b7fae71c5ee249c5852c3cb1ba7b 591 main/binary-amd64/Packages.gz
+ fe1038d91854e24bb5a9fa2201f95c877269fd0f 83 main/binary-amd64/Release
+SHA256:
+ d4268d2d36cf285ed3faa0555e7e16751384bf1b993a36af0122c947bd91a504 916 main/binary-amd64/Packages
+ 6c7fba3b985c43208c74924556d49aaddcf7b3a74127a7cd9b2c3a5452b2448c 591 main/binary-amd64/Packages.gz
+ 5b9435a63d398c3912700bbee0cd661b5bd2edabd5b3ffa0a94915507dcf6812 83 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGyBAEBCgAdFiEEO5M131dtPVgFnGqlC1ahppdi6f8FAmeINywACgkQC1ahppdi
+6f/B8gv4891Xasb4z+/7jCYIiCbqCzX3LFAWgX4NxB96HWwDLK5OKyFF4nVGIMnA
++PCiG0jQUsQLvrqsLOjxgrIsCjgGnZaPNWdpY1DVz/3d+5sy3ghpqMpZjbsxPA3x
+Sgru80j2/3DcDTRiyJvlbmiIug4p2Ct4GPvDlnBLAUeGFo4sRCZQflZSJWSSGXDL
+WbelXiyqVypIQas8mR/DoCHoCGLjc3yR7b1QAw8m0oLs/GcRcYXLSlo/vuXzmZTz
+3Z9iIW4QmqOWhzoMadM3BWblHBeKkgPRYsKCBs/M8EYwxF2SN7OolrWhF1eERoH9
+s32hzAmr8SbTsZBtDwVKUMkhrl4Bt04UX/auetxxd8iP76r1UvdnwgMfmrK8+rG6
+3mwDpRziNYMGh2qXi3sVsktpAanu7Z3Gku1a69ET/S0h1p/tETgREadOQnIzjfs4
+YRBxpLz8MQt4OomlEVrMALfImwVUDjjyLfUJy9OtZbjC0t37fvXFQkvHMx738oCC
+O3XogIk=
+=AXde
+-----END PGP SIGNATURE-----
